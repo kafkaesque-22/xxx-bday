@@ -1,6 +1,0 @@
-{
-  "name": "30th Birthday Tribute",
-  "description": "A continuous scroll-based interactive tribute celebrating a 30th birthday with elegant iOS-first animations.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
